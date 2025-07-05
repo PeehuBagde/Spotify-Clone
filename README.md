@@ -7,39 +7,41 @@ A visually appealing and interactive clone of Spotify built using HTML, CSS, and
 🔧 Features
 
 
-🎧 Play/Pause music with audio controls
+  🎧 Play/Pause music with audio controls
 
-🗂️ Dynamic playlist and song list
+  🗂️ Dynamic playlist and song list
 
-🕒 Track progress and duration display
+  🕒 Track progress and duration display
 
-📱 Responsive UI for multiple screen sizes
+  📱 Responsive UI for multiple screen sizes
 
-🎨 Clean and modern styling inspired by Spotify
+  🎨 Clean and modern styling inspired by Spotify
+
 
 
 
 🚀 Technologies Used
 
 
-• HTML5 – Structure
+  • HTML5 – Structure
 
-• CSS3 – Styling and layout
+  • CSS3 – Styling and layout
 
-• JavaScript – Audio controls, DOM manipulation, dynamic content
+  • JavaScript – Audio controls, DOM manipulation, dynamic content
+
 
 
 
 ✨ Future Improvements
 
 
-• Add user authentication
+  • Add user authentication
 
-• Integrate real Spotify API for streaming
+  • Integrate real Spotify API for streaming
 
-• Add playlist creation feature
+  • Add playlist creation feature
 
-• Improve mobile responsiveness
+  • Improve mobile responsiveness
 
 
 
