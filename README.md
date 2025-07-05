@@ -23,9 +23,9 @@ A visually appealing and interactive clone of Spotify built using HTML, CSS, and
 🚀 Technologies Used
 
 
-  • HTML5 – Structure
+  • HTML – Structure
 
-  • CSS3 – Styling and layout
+  • CSS – Styling and layout
 
   • JavaScript – Audio controls, DOM manipulation, dynamic content
 
